@@ -77,6 +77,9 @@ dns:
   proxy-server-nameserver:
     - "https://223.5.5.5/dns-query#DIRECT"
 
+  direct-nameserver:
+    - "https://223.5.5.5/dns-query#DIRECT"
+
   nameserver:
     - "https://1.1.1.1/dns-query#♻️ 自动选择"
 
